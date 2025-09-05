@@ -19,7 +19,7 @@ To improve upstream patch quality and reduce patchset rebase efforts, we use the
 * @xhaihao @feiwan1 @xuguangxin for Linux and OneVPL
 * @galinart for Windows
 * @guoyejun @Semmer2 for DNN
-* @uartie @FocusLuo @Bin-CI for CI system
+* @FocusLuo @Bin-CI for CI system
 
 ## clone
 ```shell
